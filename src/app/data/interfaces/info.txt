@@ -1,0 +1,3 @@
+# en esta carpeta almacenamos los esqueletos de los datos que vamos a enviar o revcibir
+# esta asociado a la idea de darle tipos a nuestros datos para no tener sorpresas y mejorar nuestro codigo y
+# la mejorar las practicas de testeo.

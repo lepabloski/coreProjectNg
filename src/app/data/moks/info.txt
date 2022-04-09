@@ -1,0 +1,3 @@
+# en esta carpeta almacenamos los datos de prueba, *.json, o archivos con constantes,
+# array de objetos, etc. usaremos seguramete interfaces o schemas
+

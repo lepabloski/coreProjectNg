@@ -1,0 +1,1 @@
+# en esta carpeta almacenamos componentes completos, puros que pueden llegar a ser usados en otros proyetos.

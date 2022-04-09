@@ -1,0 +1,2 @@
+# en esta carpeta almacenamos servicios internos de la aplicacion, manipulacion de fechas, generacion de modales, mensajes o
+# cualquier servicio interno que sirve como asistente a los compoenentes y modulos.
